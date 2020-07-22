@@ -1,0 +1,45 @@
+Groups
++ Add Group To Course (-> Create Group)
++ Update Group
++ Delete Group
++ Get Group By Course
+
+Courses
++ Create Course
++ Update Course
++ Delete Course
++ Get Courses
+
+Students
++ Add Student To Group (-> Create Student)
++ Update Student
++ Delete Student
++ Import Student (-> Add Student to Group)
++ Get Student By Group
+
+Teams
++ Add Team To Course (-> Create Team) 
++ Update Team
++ Delete Team
++ Add Student To Team
++ Remove Student From Team
++ Get Teams By Course
+
+Evaluations
++ Create Evaluation
++ Update Evaluation
++ Delete Evaluation
++ Get Evaluation By Course
+
+Criterias
++ Create Criteria
++ Update Criteria
++ Delete Criteria
++ Get Criteria By Evaluation
+
+Results
++ Add Result
++ Update Result
++ Delete Result
++ Get Results From By Evaluations and Student
+
